@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h4 {
+    color: #007bff;
+}
+
+header {
+    background-color: #ffeb3b;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.headline {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #212529;
+}
+
+.subheadline {
+    font-size: 1.25rem;
+    color: #495057;
+    margin: 0;
+}
+
+#previewImage {
+    display: block;
+    margin: 0 auto;
+}
+
+#result {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+canvas {
+    margin: 0 auto;
+}
+.total-checks {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #495057;
+}
